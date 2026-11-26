@@ -14,7 +14,7 @@
 
 | :---: | :---: |
 
-| !\[Active Gameplay](media/active-gameplay.gif) | !\[Idle Flow](media/idle-flow.gif) |
+| !\[Active Gameplay](Media/active-gameplay.gif) | !\[Idle Flow](Media/idle-flow.gif) |
 
 
 
