@@ -23,6 +23,7 @@ public class GameOver : MonoBehaviour
             StopPlayerShip();
         if (IsPirateShipSunk()) 
             StopPirateShip();
+        TurnOnWinningSound();
     }
 
     public void FinishGame()
@@ -31,7 +32,7 @@ public class GameOver : MonoBehaviour
         FadePlayerShipBox();
     }
 
-    public void TurnOnWinningSound()
+    private void TurnOnWinningSound()
     {
         StartCoroutine(StartWinningSoundRoutine());
     }
